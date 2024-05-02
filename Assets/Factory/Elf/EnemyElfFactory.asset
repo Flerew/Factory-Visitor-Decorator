@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c8a0ac21d227f74d8185e0273b8f312, type: 3}
+  m_Name: EnemyElfFactory
+  m_EditorClassIdentifier: 
+  _config:
+    _elfPaladinPrefab: {fileID: 7552769168049069500, guid: 82bffd56e5b30fe438e56e1461327fa2, type: 3}
+    _elfWizardPrefab: {fileID: 8344613009569131976, guid: 7ce44a63f3f6b9d42ae2128a6f217433, type: 3}
