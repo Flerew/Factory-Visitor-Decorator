@@ -136,7 +136,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5122803297741652760, guid: 121544208d1a7a5409630dbd34ccc992, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5122803297741652761, guid: 121544208d1a7a5409630dbd34ccc992, type: 3}
       propertyPath: _currentEnemyFactory
@@ -1212,7 +1212,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5122803297741652760, guid: 121544208d1a7a5409630dbd34ccc992, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5122803297741652762, guid: 121544208d1a7a5409630dbd34ccc992, type: 3}
       propertyPath: m_RootOrder
